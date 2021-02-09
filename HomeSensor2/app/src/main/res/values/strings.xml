@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeSensor2</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="air_quality">Air quality</string>
+    <string name="value">Value</string>
+    <string name="day">24h</string>
+    <string name="week">7d</string>
+    <string name="month">30d</string>
+    <string name="two_days">2d</string>
+</resources>

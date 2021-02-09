@@ -1,0 +1,15 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¨Œşÿÿÿÿ8ü½ØÂö.
+J
+java:S1604("(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8úî×Âö.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8îîÍºö.
+i
+java:S1128
+"GRemove this unused import 'com.google.android.material.chip.ChipGroup'.(ß®«íùÿÿÿÿ8ªå½Áö.
+€
+java:S1450"^Remove the "influxDbService" field and declare it as a local variable in the relevant methods.(çíã”úÿÿÿÿ8Ş˜Ğºö.
+_
+java:S1128	"BRemove this unused import 'com.google.android.material.chip.Chip'.(àä×ã8õº½Áö.
+P
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8ü½ØÂö.

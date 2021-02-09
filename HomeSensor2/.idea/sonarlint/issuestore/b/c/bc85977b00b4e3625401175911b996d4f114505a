@@ -1,0 +1,13 @@
+
+P
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8¬»×Âö.
+D
+java:S1604"(Make this anonymous inner class a lambda(ô§ê8ó“Áö.
+D
+java:S1604H"(Make this anonymous inner class a lambda(ô§ê8ß˜œÃö.
+D
+java:S1604."(Make this anonymous inner class a lambda(ô§ê8‡ñ€Âö.
+
+java:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä—ø8ŸÜù­ø.
+u
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¹ÿ¢Êøÿÿÿÿ8ŸÜù­ø.

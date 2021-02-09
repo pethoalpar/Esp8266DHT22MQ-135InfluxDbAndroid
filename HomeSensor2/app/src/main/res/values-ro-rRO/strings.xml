@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeSensor2</string>
+    <string name="temperature">Temperatura</string>
+    <string name="humidity">Umiditate</string>
+    <string name="air_quality">Calitate aer</string>
+    <string name="value">Valoare</string>
+    <string name="day">24h</string>
+    <string name="week">7d</string>
+    <string name="month">30d</string>
+    <string name="two_days">2d</string>
+</resources>
